@@ -91,7 +91,7 @@
 
 [UI/UX 단위테스트 결과서 link](https://docs.google.com/spreadsheets/d/1VSQjJUEdlO6nBmaV-3m8dyQCPhs8Wfo7WfTZittchdA/edit?gid=1162915854#gid=1162915854)
 
-![UI/UX 단위테스트 결과서]()
+![UI/UX 단위테스트 결과서](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/118799810/2508e324-c6f5-4e12-a2ff-ab72043db4e5)
 
 </div>
 </details>
