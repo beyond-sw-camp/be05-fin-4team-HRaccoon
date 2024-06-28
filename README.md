@@ -66,10 +66,11 @@
 </details>
 
 <details>
-<summary>프로그램 사양서 (발표 자료)</summary>
+<summary>프로그램 사양서</summary>
 <div markdown="1">
 
-![프로그램 사양서]()
+![프로그램 사양서](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/118799810/29511a7e-a950-4dee-a41c-1f35e214cdc1)
+![프로그램 사양서](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/118799810/1230e6b6-8c4e-45d6-a6c9-700b3730ccdd)
 
 </div>
 </details>
@@ -86,7 +87,7 @@
 </details>
 
 <details>
-<summary>UI/UX 단위테스트 결과서 (수정 필요)</summary>
+<summary>UI/UX 단위테스트 결과서</summary>
 <div markdown="1">
 
 [UI/UX 단위테스트 결과서 link](https://docs.google.com/spreadsheets/d/1VSQjJUEdlO6nBmaV-3m8dyQCPhs8Wfo7WfTZittchdA/edit?gid=1162915854#gid=1162915854)
@@ -117,10 +118,10 @@
 </details>
 
 <details>
-<summary>시스템 아키텍쳐 (수정 필요)</summary>
+<summary>시스템 아키텍쳐</summary>
 <div markdown="1">
 
-![시스템 아키텍쳐 ](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/114909535/de4ba76c-6bc4-4c14-b99b-1ff9d749ce86)
+![시스템 아키텍쳐](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/118799810/fd3f012a-9d24-489a-bbfd-0694c152e72d)
 
 </div>
 </details>
@@ -129,7 +130,7 @@
 <summary>발표 자료</summary>
 <div markdown="1">
 
-[발표자료.pptx]()
+[발표자료 link](https://github.com/user-attachments/files/16022510/4.ppt.pdf)
 
 </div>
 </details>
