@@ -15,7 +15,19 @@
 
 [요구사항 정의서](https://docs.google.com/spreadsheets/d/1PyX4EWiuSz4qTXAlm1Pf954udgMTVb1uU-Js72Z2eq0/edit?gid=1162915854#gid=1162915854)
 
-![요구사항 정의서 사진](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/114909535/6e000578-b4ba-47a8-b434-909e82ec3fd5)
+![요구사항 정의서 사진](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/114909535/94983912-3b32-4e54-a23e-6921582f6c01)
+
+</div>
+</details>
+
+
+<details>
+<summary>시스템 아키텍처</summary>
+<div markdown="1">
+
+[시스템 아키텍쳐](https://miro.com/app/board/uXjVKIne6v4=/?irclickid=zBQUZWxz3xyKTO2XI2WM00OXUkC0plXt5WOpwg0&utm_source=Linkbux&utm_medium=cpa&utm_campaign=&utm_affiliate_network=impact&irgwc=1)
+
+![시스템 아키텍쳐 사진](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/114909535/1b57b5d9-c523-47d8-9ee5-23aea06302ab)
 
 </div>
 </details>
@@ -35,7 +47,7 @@
 <div markdown="1">
 
 
-![ERD](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/114909535/d40f67a5-4b46-40eb-bab8-6fb33fb27145)
+![ERD](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/114909535/308a43a6-e042-458f-b1ab-1aa5db2fb147)
 
 
 </div>
@@ -56,10 +68,59 @@
 </details>
 
 <details>
-<summary>시스템 아키텍쳐 기획서</summary>
+<summary>단위 테스트 결과서</summary>
 <div markdown="1">
 
-![시스템 아키텍쳐](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/114909535/de4ba76c-6bc4-4c14-b99b-1ff9d749ce86)
+[link](https://docs.google.com/spreadsheets/d/1ygbGs2M_cQlwKpL4q6NIUGtBL-o7ZB14kv2fOpX-ZNs/edit?gid=0#gid=0)
+
+
+![단위테스트](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/114909535/2583c5dc-632e-421b-a525-5ecd0064bb30)
+
+
+
+
+</div>
+</details>
+
+
+<details>
+<summary>UI/UX 단위 테스트</summary>
+<div markdown="1">
+
+[link](https://docs.google.com/spreadsheets/d/1VSQjJUEdlO6nBmaV-3m8dyQCPhs8Wfo7WfTZittchdA/edit?gid=1162915854#gid=1162915854)
+
+
+![UI/UX 단위테스트](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/114909535/1f05df49-82c0-41e6-95f1-877226814a16)
+
+
+
+
+</div>
+</details>
+
+
+<details>
+<summary>통합 테스트 결과서</summary>
+<div markdown="1">
+
+[link](https://docs.google.com/spreadsheets/d/1PyX4EWiuSz4qTXAlm1Pf954udgMTVb1uU-Js72Z2eq0/edit?gid=1162915854#gid=1162915854)
+
+
+![통합 테스트 결과서](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/114909535/75ae2546-9f11-4656-9f9a-02c1b0a83613)
+
+
+
+
+</div>
+</details>
+
+
+<details>
+<summary>CI/CD 계획서</summary>
+<div markdown="1">
+
+![CI/CD 계획서](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/114909535/ec255303-dd71-496d-836c-3ae129b9bf56)
+
 
 
 
