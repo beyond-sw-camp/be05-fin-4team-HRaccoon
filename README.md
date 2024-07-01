@@ -4,7 +4,7 @@
 <summary>프로젝트 기획서</summary>
 <div markdown="1">
 
-[Notion link](https://www.notion.so/d3a19f08e0114bf2afd24cf1de20eb2b)
+[Notion link](https://www.notion.so/10417178f25a46b897dba5413ed99462)
 
 </div>
 </details>
