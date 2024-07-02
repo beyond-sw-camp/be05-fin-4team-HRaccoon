@@ -1,5 +1,15 @@
 ## HRaccoon
 
+## 🎄 Team HRaccoon 
+
+<div>
+
+| **최수환** | **방채원** | **이윤재** | **정광수** |
+| :------: |  :------: | :------: | :------: |
+| [<img src="https://avatars.githubusercontent.com/u/127950374?v=4" height=150 width=150> <br/> ](https://github.com/OrangeVinyl) | [<img src="https://avatars.githubusercontent.com/u/135799134?v=4" height=150 width=150> <br/> ](https://github.com/chaewon02) | [<img src="https://avatars.githubusercontent.com/u/118799810?v=4" height=150 width=150> <br/> ](https://github.com/itsjaeya) | [<img src="https://avatars.githubusercontent.com/u/134581020?v=4" height=150 width=150> <br/> ](https://github.com/Jrhkdtn) |
+</div>
+
+
 <details>
 <summary>프로젝트 기획서</summary>
 <div markdown="1">
