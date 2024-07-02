@@ -78,7 +78,7 @@
 
 ![시스템 아키텍쳐 사진](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/114909535/1b57b5d9-c523-47d8-9ee5-23aea06302ab)
 
-    </div>
+  </div>
 
   </details>
 
@@ -88,7 +88,7 @@
 
 ![WBS](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/114909535/d7088c44-a735-4b4a-be41-ff1f8829f2d6)
 
-    </div>
+  </div>
 
   </details>
 
@@ -98,7 +98,7 @@
 
 ![ERD](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/114909535/308a43a6-e042-458f-b1ab-1aa5db2fb147)
 
-    </div>
+  </div>
 
   </details>
 
@@ -110,7 +110,7 @@
 
 ![화면설계서 사진](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/114909535/607f2241-cd9c-4f76-8cb8-f439283556d2)
 
-    </div>
+  </div>
 
   </details>
 
