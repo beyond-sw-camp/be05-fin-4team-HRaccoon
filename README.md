@@ -68,6 +68,15 @@
 </details>
 
 <details>
+<summary>프로그램 사양서</summary>
+<div markdown="1">
+
+![프로그램 사양서 사진](https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/118799810/4fccf1b3-abb8-431a-8fa6-2d6aae37fb05)
+
+</div>
+</details>
+
+<details>
 <summary>단위 테스트 결과서</summary>
 <div markdown="1">
 
