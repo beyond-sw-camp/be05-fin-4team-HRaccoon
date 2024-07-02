@@ -1,12 +1,20 @@
-## HRaccoon
+<h1 align="center" style="color:#696CFF">
+🦝 HRaccoon 인사 관리 시스템🦝
+</h1>
+<br>
+<div align="center">
+  <img src="https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/118799810/4fc66644-fac0-4735-9c40-d8f4c88170f4" width="500" alt="image">
+</div>
+<br>
+<br>
+<br>
 
-## 🎄 Team HRaccoon 
-
+## 🦝 Team HRaccoon 
 <div>
 
 | **최수환** | **방채원** | **이윤재** | **정광수** |
 | :------: |  :------: | :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/u/127950374?v=4" height=150 width=150> <br/> ](https://github.com/OrangeVinyl) | [<img src="https://avatars.githubusercontent.com/u/135799134?v=4" height=150 width=150> <br/> ](https://github.com/chaewon02) | [<img src="https://avatars.githubusercontent.com/u/118799810?v=4" height=150 width=150> <br/> ](https://github.com/itsjaeya) | [<img src="https://avatars.githubusercontent.com/u/134581020?v=4" height=150 width=150> <br/> ](https://github.com/Jrhkdtn) |
+| [<img src="https://avatars.githubusercontent.com/u/105047091?v=4" height=150 width=150> <br/> ](https://github.com/OrangeVinyl) | [<img src="https://avatars.githubusercontent.com/u/118799810?v=4" height=150 width=150> <br/> ](https://github.com/chaewon02) | [<img src="https://avatars.githubusercontent.com/u/135799134?v=4" height=150 width=150> <br/> ](https://github.com/itsjaeya) | [<img src="https://avatars.githubusercontent.com/u/114909535?v=4" height=150 width=150> <br/> ](https://github.com/Jrhkdtn) |
 </div>
 
 
