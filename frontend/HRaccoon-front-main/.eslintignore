@@ -1,0 +1,8 @@
+.prettierrc.json
+.eslintrc.cjs
+index.html
+jsconfig.json
+package.json
+README.md
+vite.config.js
+vitest.config.js
