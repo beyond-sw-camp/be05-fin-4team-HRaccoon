@@ -3,21 +3,50 @@
 </h1>
 <br>
 <div align="center">
-  <img src="https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/118799810/4fc66644-fac0-4735-9c40-d8f4c88170f4" width="500" alt="image">
+  <img src="https://github.com/beyond-sw-camp/be05-fin-4team-HRaccoon/assets/118799810/f59f5f56-0962-4e96-ac96-b336aa5fa5e5" width="1000" alt="image">
 </div>
 <br>
 <br>
 <br>
 
 ## 🦝 Team HRaccoon 
-<div>
+<div align="center">
 
 | **최수환** | **방채원** | **이윤재** | **정광수** |
 | :------: |  :------: | :------: | :------: |
 | [<img src="https://avatars.githubusercontent.com/u/105047091?v=4" height=150 width=150> <br/> ](https://github.com/OrangeVinyl) | [<img src="https://avatars.githubusercontent.com/u/118799810?v=4" height=150 width=150> <br/> ](https://github.com/chaewon02) | [<img src="https://avatars.githubusercontent.com/u/135799134?v=4" height=150 width=150> <br/> ](https://github.com/itsjaeya) | [<img src="https://avatars.githubusercontent.com/u/114909535?v=4" height=150 width=150> <br/> ](https://github.com/Jrhkdtn) |
 </div>
+<br>
+<br>
+<br>
+<br>
 
+## 🔨 개발 환경
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F.svg?&style=for-the-badge&logo=SpringSecurity&logoColor=white"/> <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=Json Web Tokens&logoColor=purple"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" /> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white" /> <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/vue_router-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/awselasticloadbalancing-8C4FFF?&style=for-the-badge&logo=awselasticloadbalancing&logoColor=white"/>  <img src="https://img.shields.io/badge/amazonec2-FF9900?&style=for-the-badge&logo=amazonec2&logoColor=white"/>  <img src="https://img.shields.io/badge/amazons3-569A31?&style=for-the-badge&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/amazonelasticache-C925D1?&style=for-the-badge&logo=amazonelasticache&logoColor=white"/> <img src="https://img.shields.io/badge/amazons3-569A31?&style=for-the-badge&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/amazonroute53-8C4FFF?&style=for-the-badge&logo=amazonroute53&logoColor=white"/> <img src="https://img.shields.io/badge/amazonrds-527FFF?&style=for-the-badge&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/slack-purple?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/miro-050038?&style=for-the-badge&logo=miro&logoColor=white"/> 
+<br>
+<br>
+<br>
+<br>
 
+## 필수 산출물
+
+<details>
+    <summary</summary>
+
+  </details>
 <details>
 <summary>프로젝트 기획서</summary>
 <div markdown="1">
