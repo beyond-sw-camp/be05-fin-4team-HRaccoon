@@ -144,8 +144,8 @@ App)를 가능하게 했습니다. 이를 통해 모바일 웹을 앱처럼 사�
   - 그러나, 좌석 선택 페이지에서 반응형 디자인으로 인해 모바일에서
 는 좌석이 버스 좌석처럼 일렬로 배치되는 문제가 있었습니다. 이를 해결하기 위해 HRaccoon은 좌석 전용 네이티브 앱을 개발했습니다. <br>
 <div>
-  <img src="https://github.com/beyond-sw-camp/be01-2nd-1Team-NomadLog/assets/118799810/b6030d49-93cf-4948-b664-0faf916dc3e6" width="500" height="500" alt="image"> (PWA)
-   <img src="https://github.com/beyond-sw-camp/be01-2nd-1Team-NomadLog/assets/118799810/43f03af6-8438-48b3-9d19-598ed8bf01f8" height="500" alt="image"> (네이티브 앱)
+  <img src="https://github.com/beyond-sw-camp/be01-2nd-1Team-NomadLog/assets/118799810/b6030d49-93cf-4948-b664-0faf916dc3e6" width="400" height="400" alt="image"> (PWA)
+   <img src="https://github.com/beyond-sw-camp/be01-2nd-1Team-NomadLog/assets/118799810/43f03af6-8438-48b3-9d19-598ed8bf01f8" height="400" alt="image"> (네이티브 앱)
 </div>
 <br/>
 
